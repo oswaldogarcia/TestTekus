@@ -1,0 +1,6 @@
+framework module Pods_TestTekus {
+  umbrella header "Pods-TestTekus-umbrella.h"
+
+  export *
+  module * { export * }
+}
